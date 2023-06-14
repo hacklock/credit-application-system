@@ -22,7 +22,7 @@
 </p>
 
 <h3>Descrição do Projeto</h3>
-<p><a href="https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286">https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286</a></p>
+[<p><a href="[https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286](https://avatars.githubusercontent.com/u/20504997?s=96&v=4)">https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286</a></p>](https://avatars.githubusercontent.com/u/20504997?s=96&v=4)
 <figure>
 <p align="center">
   <img src="https://i.imgur.com/7phya16.png" height="350" width="450" alt="API para Sistema de Avaliação de Créditos"/><br>
@@ -44,9 +44,12 @@
 <h3>Autor</h3>
 
 <a href="[https://www.linkedin.com/in/cami-la/](https://www.linkedin.com/in/wilton-ribeiro-5835916/)">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://
+				       
+				       
+				       
+				       tars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Wilton R. Cruz</b></sub></a> <a href="[https://www.instagram.com/camimi_la/](https://www.linkedin.com/in/wilton-ribeiro-5835916/)" title="Linkedin"></a>
 
 
 
