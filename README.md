@@ -53,8 +53,8 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/cami-la/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:camiladsantoscavalcante@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Wilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/cami-la/](https://www.linkedin.com/in/wilton-ribeiro-5835916/)]([https://www.linkedin.com/in/cami-la/](https://www.linkedin.com/in/wilton-ribeiro-5835916/)
+[![Gmail Badge](https://img.shields.io/badge/-jiquitaiasoftware@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiquitaiasoftware@gmail.com)](mailto:jiquitaiasoftware@gmail.com)
 <hr>
 <h3>Contribuindo</h3>
 
